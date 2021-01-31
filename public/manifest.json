@@ -1,0 +1,53 @@
+{
+    "name": "Nanastore Lite",
+    "short_name": "Nanastore",
+    "description": "lima kaki nanas",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#0082c8",
+    "theme_color": "#0082c8",
+    "gcm_sender_id": "466142298319",
+    "icons": [
+        {
+            "src": "Assets/Images/nanastore-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "Assets/Images/nanastore-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "splash_pages": null
+}
